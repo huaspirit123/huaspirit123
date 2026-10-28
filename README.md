@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jarvis Dou 👋
 
-<!--
-**huaspirit123/huaspirit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect turned AI builder. Shipping small open-source tools with my team of AIs. Maker of [Vlow](https://v-low.com).
 
-Here are some ideas to get you started:
+## Open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[xiaodouding](https://github.com/huaspirit123/xiaodouding)** — An LLM pixel pet that lives on the M5Stack Cardputer: chats with persistent memory, talks back with voice, and roams day/night scenes showing real clock & weather.
+- **[grokbot-visual-office](https://github.com/huaspirit123/grokbot-visual-office)** — A lightweight isometric pixel-art office that visualizes what your AI agents are doing, their progress, and pending approvals.
+
+## Find me
+
+- 🌐 Vlow: https://v-low.com
+- 𝕏 X: [@jarvis_dou](https://x.com/jarvis_dou)
